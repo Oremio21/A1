@@ -1,2 +1,4 @@
-# A1
-Aavaliação A1
+Avaliação A1, para executa-la basta baixar o arquivo e utilizar uma IDE.
+No repositório estão os programas sobre "EVENTO" que contém a atividade de estruturas condicionais que tem como objetivo validar a idade de pessoas para entrar em um evento sendo proibido para pessoas com ou acima de 50 anos, permitida para mairoes de 18 e proibida para menores de 18.
+Além deste também há a LISTA: Que tem o objetivo de armazenar nomes de alunos e exibir a qualquer momento em que for executado. Para adicionar um nome é necessário que seja colocado na lista em .txt(alunos.txt).
+A E/S pode ser analisada em ambas listas com a função input no qual o usuário determina o valor da variável. (no caso da atividade "LISTA", a estrada está no arquivo "alunos.txt", no qual o usuário determina o nome dos alunos que devem estar presentes na lista. A saída pode ser analisada com a impresão para o usuario com as informações.
